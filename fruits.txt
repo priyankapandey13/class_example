@@ -3,3 +3,5 @@ Peach
 litchi
 Banana
 Strawberry
+Kiwi
+litchi
